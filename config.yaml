@@ -1,0 +1,51 @@
+# Krishi Risk Configuration File
+# Project: District Livelihood Vulnerability & Crop-Shock Early-Warning Web App
+
+project:
+  name: "Krishi Risk"
+  version: "0.1.0"
+  random_seed: 42
+
+paths:
+  raw_imd: "data/raw/imd"
+  raw_icrisat: "data/raw/icrisat"
+  raw_census: "data/raw/census2011"
+  raw_nfhs: "data/raw/nfhs"
+  raw_niti_mpi: "data/raw/niti_mpi"
+  raw_shapefile: "data/raw/shapefile"
+  processed_dir: "data/processed"
+  models_dir: "models"
+  reports_dir: "reports"
+  figures_dir: "reports/figures"
+  app_dir: "app"
+
+climate:
+  baseline_start_year: 1990
+  baseline_end_year: 2010
+  analysis_start_year: 1990
+  analysis_end_year: 2020
+  forecast_date_kharif: "07-31" # End of July forecast time
+  heavy_rain_threshold_mm: 64.5 # IMD definition of heavy rainfall (>64.4 mm/day)
+  dry_day_threshold_mm: 1.0     # Days with < 1mm rainfall
+
+agri_shock:
+  target_crop: "kharif_foodgrains" # or all major kharif crops aggregate
+  detrend_method: "linear"         # 'linear' or 'rolling_5yr'
+  shock_threshold_sd: -1.0         # Residual < -1 SD relative to trend
+  shock_threshold_pct: -0.20       # Residual < -20% below trend
+  secondary_shock_threshold_sd: -1.28 # ~10th percentile cutoff
+
+modeling:
+  train_end_year: 2012
+  test_start_year: 2013
+  test_end_year: 2017
+  spatial_cv_groups: "State_Name"  # Leave-One-State-Out or Agro-Climatic Zone
+  imbalance_strategy: "class_weight" # 'class_weight' vs 'smote_comparison'
+  models_to_run:
+    - "climatology_baseline"
+    - "persistence_baseline"
+    - "logistic_regression"
+    - "random_forest"
+    - "xgboost"
+    - "lightgbm"
+

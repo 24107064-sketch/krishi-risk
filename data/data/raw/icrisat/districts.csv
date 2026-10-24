@@ -1,0 +1,314 @@
+INDC_STC,INDC_DTC,SAT_NONSAT,REGION,REG_NAME,AEZ,AEZ_NATP,AEZ_NATP_PS,STCODE,STNAME,INDIAID,DISTNAME,LAT,LONG,DIST
+22,409,1,2,Durg division,3,5,5.1,14,Chhattisgarh,1013,Durg,21.2,81.3,1
+22,414,2,1,Bastar division,1,5,5.1,14,Chhattisgarh,1002,Bastar,19.1,82.0,2
+22,410,1,3,Raipur division,3,5,5.1,14,Chhattisgarh,1027,Raipur,21.2,81.7,3
+22,406,1,4,Bilaspur division,3,5,5.1,14,Chhattisgarh,1006,Bilaspur,22.1,82.1,4
+22,403,1,4,Bilaspur division,3,5,5.1,14,Chhattisgarh,1026,Raigarh,21.9,83.4,5
+22,401,1,5,Surguja division,3,5,5.1,14,Chhattisgarh,1034,Surguja,23.1,83.2,6
+23,452,1,1,Jabalpur division,3,5,5.1,6,Madhya Pradesh,1019,Jabalpur,23.0,80.0,7
+23,457,2,1,Jabalpur division,1,5,5.1,6,Madhya Pradesh,1001,Balaghat,22.1,80.6,8
+23,455,1,1,Jabalpur division,3,5,5.3,6,Madhya Pradesh,1008,Chhindwara,22.1,79.0,9
+23,452,2,1,Jabalpur division,1,5,5.3,6,Madhya Pradesh,1024,Narsinghpur,22.8,79.0,10
+23,456,2,1,Jabalpur division,1,5,5.3,6,Madhya Pradesh,1037,Seoni Shivani,22.1,79.7,11
+23,454,2,1,Jabalpur division,1,5,5.1,6,Madhya Pradesh,1021,Mandla,25.0,88.1,12
+23,427,1,2,Sagar division,3,5,5.3,6,Madhya Pradesh,1033,Sagar,23.9,78.8,13
+23,428,1,2,Sagar division,3,5,5.1,6,Madhya Pradesh,1009,Damoh,24.1,79.6,14
+23,424,2,2,Sagar division,2,5,5.3,6,Madhya Pradesh,1042,Tikamgarh,24.9,78.9,15
+23,425,2,2,Sagar division,2,5,5.3,6,Madhya Pradesh,1007,Chhatarpur,25.1,79.5,16
+23,426,2,2,Sagar division,2,5,5.1,6,Madhya Pradesh,1025,Panna,24.3,80.0,17
+23,430,2,3,Rewa division,2,5,5.1,6,Madhya Pradesh,1032,Rewa,24.5,81.3,18
+23,462,1,3,Rewa division,3,5,5.1,6,Madhya Pradesh,1041,Sidhi,24.3,82.0,19
+23,429,2,3,Rewa division,2,5,5.1,6,Madhya Pradesh,1035,Satna,24.6,80.1,20
+23,460,1,3,Rewa division,3,5,5.1,6,Madhya Pradesh,1038,Shahdol,23.5,81.1,21
+23,421,2,6,Chambal division,2,5,5.3,6,Madhya Pradesh,1016,Gwalior,26.2,78.3,22
+23,423,1,6,Chambal division,3,5,5.3,6,Madhya Pradesh,1040,Shivpuri,24.6,77.5,23
+23,458,1,6,Chambal division,3,5,5.3,6,Madhya Pradesh,1015,Guna,24.7,77.3,24
+23,422,2,6,Chambal division,2,5,5.3,6,Madhya Pradesh,1010,Datia,25.7,78.5,25
+23,419,2,6,Chambal division,2,5,5.3,6,Madhya Pradesh,1023,Morena,25.1,76.7,26
+23,420,2,6,Chambal division,2,5,5.3,6,Madhya Pradesh,1004,Bhind,21.9,77.7,27
+23,439,1,4,Indore division,3,5,5.3,6,Madhya Pradesh,1018,Indore,22.7,75.8,28
+23,434,1,5,Ujjain division,3,5,5.3,6,Madhya Pradesh,1031,Ratlam,23.0,75.0,29
+23,435,1,5,Ujjain division,3,5,5.3,6,Madhya Pradesh,1043,Ujjain,23.3,75.7,30
+23,433,1,5,Ujjain division,3,5,5.3,6,Madhya Pradesh,1022,Mandsaur,24.3,75.2,31
+23,437,1,5,Ujjain division,3,5,5.3,6,Madhya Pradesh,1011,Dewas,22.6,76.4,32
+23,438,1,4,Indore division,3,5,5.3,6,Madhya Pradesh,1012,Dhar,22.5,75.0,33
+23,464,1,4,Indore division,3,5,5.3,6,Madhya Pradesh,1020,Jhabua,22.6,74.4,34
+23,440,1,4,Indore division,3,5,5.3,6,Madhya Pradesh,1045,Khargone West Nimar,21.9,75.4,35
+23,466,1,4,Indore division,3,5,5.3,6,Madhya Pradesh,1014,Khandwa East Nimar,21.1,76.4,36
+23,445,1,7,Bhopal division,3,5,5.3,6,Madhya Pradesh,1036,Sehore,22.9,77.1,37
+23,446,1,7,Bhopal division,3,5,5.3,6,Madhya Pradesh,1028,Raisen,23.2,78.2,38
+23,443,1,7,Bhopal division,3,5,5.3,6,Madhya Pradesh,1044,Vidisha,23.9,77.9,39
+23,447,1,7,Bhopal division,3,5,5.3,6,Madhya Pradesh,1003,Betul,21.9,77.9,40
+23,442,1,7,Bhopal division,3,5,5.3,6,Madhya Pradesh,1029,Rajgarh,23.9,76.8,41
+23,436,1,5,Ujjain division,3,5,5.3,6,Madhya Pradesh,1039,Shajapur,23.4,76.4,42
+23,449,1,7,Bhopal division,3,5,5.3,6,Madhya Pradesh,1017,Hoshangabad,22.8,77.8,43
+28,542,2,1,Coastal Andhra region,1,2,2.1,1,AndhraPradesh,3219,Srikakulam,18.6,84.3,44
+28,544,2,1,Coastal Andhra region,1,2,2.1,1,AndhraPradesh,3220,Visakhapatnam,17.7,83.3,45
+28,545,2,1,Coastal Andhra region,1,2,2.1,1,AndhraPradesh,3205,East Godavari,17.0,82.2,46
+28,546,2,1,Coastal Andhra region,1,2,2.1,1,AndhraPradesh,3223,West Godavari,16.8,81.5,47
+28,547,1,1,Coastal Andhra region,3,2,2.1,1,AndhraPradesh,3210,Krishna,16.2,81.1,48
+28,548,1,1,Coastal Andhra region,3,2,2.1,1,AndhraPradesh,3206,Guntur,16.6,79.6,49
+28,550,1,1,Coastal Andhra region,3,2,2.1,1,AndhraPradesh,3215,S.P.S.Nellore,14.5,80.0,50
+28,552,1,2,Rayalaseema region,3,5,5.3,1,AndhraPradesh,3211,Kurnool,15.8,78.1,51
+28,553,2,2,Rayalaseema region,4,5,5.3,1,AndhraPradesh,3202,Anantapur,14.6,77.0,52
+28,551,1,2,Rayalaseema region,3,5,5.3,1,AndhraPradesh,3204,Kadapa YSR,14.5,78.8,53
+28,554,1,2,Rayalaseema region,3,5,5.3,1,AndhraPradesh,3203,Chittoor,13.5,78.5,54
+-1,536,1,3,Telangana region,3,5,5.1,20,Telangana,3207,Hyderabad,17.5,78.5,55
+-1,533,1,3,Telangana region,3,5,5.1,20,Telangana,3216,Nizamabad,18.1,78.1,56
+-1,535,1,3,Telangana region,3,5,5.1,20,Telangana,3213,Medak,17.6,78.0,57
+-1,538,1,3,Telangana region,3,5,5.1,20,Telangana,3212,Mahabubnagar,16.7,78.0,58
+-1,539,1,3,Telangana region,3,5,5.1,20,Telangana,3214,Nalgonda,17.1,79.3,59
+-1,540,1,3,Telangana region,3,5,5.1,20,Telangana,3222,Warangal,18.0,79.6,60
+-1,541,2,3,Telangana region,1,5,5.1,20,Telangana,3209,Khammam,17.7,80.9,61
+-1,534,1,3,Telangana region,3,5,5.1,20,Telangana,3208,Karimnagar,18.4,79.0,62
+-1,532,1,3,Telangana region,3,5,5.1,20,Telangana,3201,Adilabad,19.4,79.3,63
+29,572,1,1,Bangalore division,3,5,5.2,5,Karnataka,3901,Bangalore,13.0,77.6,64
+29,581,1,1,Bangalore division,3,5,5.2,5,Karnataka,3913,Kolar,13.1,78.1,65
+29,571,1,1,Bangalore division,3,5,5.2,5,Karnataka,3918,Tumkur,13.4,77.1,66
+29,577,1,4,Mysore division,3,5,5.2,5,Karnataka,3915,Mysore,12.1,76.3,67
+29,573,1,4,Mysore division,3,5,5.2,5,Karnataka,3914,Mandya,12.8,77.8,68
+29,574,2,4,Mysore division,1,5,5.2,5,Karnataka,3911,Hassan,13.0,76.2,69
+29,568,2,1,Bangalore division,1,5,5.2,5,Karnataka,3917,Shimoge,13.9,75.6,70
+29,570,2,4,Mysore division,1,5,5.2,5,Karnataka,3906,Chickmagalur,13.3,75.8,71
+29,566,1,1,Bangalore division,3,5,5.2,5,Karnataka,3907,Chitradurga,14.2,76.4,72
+29,565,2,3,Gulbarga division,4,5,5.2,5,Karnataka,3903,Bellary,15.2,76.9,73
+29,562,1,2,Belgaum division,3,5,5.2,5,Karnataka,3909,Dharwad,15.5,75.0,74
+29,555,1,2,Belgaum division,3,5,5.2,5,Karnataka,3902,Belgaum,15.9,74.5,75
+29,557,1,2,Belgaum division,3,5,5.2,5,Karnataka,3905,Bijapur Vijayapura,16.8,75.7,76
+29,558,1,3,Gulbarga division,3,5,5.2,5,Karnataka,3904,Bidar,17.9,77.5,77
+29,559,1,3,Gulbarga division,3,5,5.2,5,Karnataka,3916,Raichur,16.2,77.4,78
+29,579,1,3,Gulbarga division,3,5,5.2,5,Karnataka,3910,Gulbarga Kalaburagi,17.4,76.9,79
+29,575,2,4,Mysore division,1,2,2.2,5,Karnataka,3908,Dakshina Kannada,12.9,74.9,80
+29,563,2,2,Belgaum division,1,2,2.2,5,Karnataka,3919,Uttara Kannada,14.8,75.5,81
+29,576,2,4,Mysore division,1,5,5.2,5,Karnataka,3912,Kodagu Coorg,12.4,75.7,82
+33,-1,2,2,Tondai Nadu region,1,2,2.1,11,Tamil Nadu,1901,Chengalpattu MGR,24.6,79.9,83
+33,617,2,2,Tondai Nadu region,1,2,2.1,11,Tamil Nadu,1915,South Arcot Cuddalore,9.3,78.3,84
+33,604,1,2,Tondai Nadu region,3,5,5.1,11,Tamil Nadu,1909,North Arcot Vellore,12.9,79.2,85
+33,608,1,3,Kongu Nadu region,3,5,5.3,11,Tamil Nadu,1914,Salem,11.7,78.0,86
+33,632,1,3,Kongu Nadu region,3,5,5.1,11,Tamil Nadu,1902,Coimbatore,11.0,77.0,87
+33,614,1,1,Chola Nadu region,3,5,5.1,11,Tamil Nadu,1917,Tiruchirapalli Trichy,10.8,78.7,88
+33,620,1,1,Chola Nadu region,3,2,2.1,11,Tamil Nadu,1916,Thanjavur,10.8,79.9,89
+33,623,1,4,Pandya Nadu region,3,5,5.1,11,Tamil Nadu,1907,Madurai,9.9,78.1,90
+33,626,1,4,Pandya Nadu region,3,2,2.1,11,Tamil Nadu,1913,Ramananthapuram,9.2,78.5,91
+33,628,1,4,Pandya Nadu region,3,5,5.1,11,Tamil Nadu,1918,Thirunelveli,8.7,77.8,92
+33,611,2,3,Kongu Nadu region,1,5,5.1,11,Tamil Nadu,1908,The Nilgiris,11.4,77.4,93
+33,629,1,4,Pandya Nadu region,3,2,2.2,11,Tamil Nadu,1905,Kanyakumari,8.3,77.3,94
+27,519,2,1,Konkan division,1,2,2.2,7,Maharashtra,1111,Bombay,18.9,72.8,95
+27,517,2,1,Konkan division,1,2,2.2,7,Maharashtra,1128,Thane,20.0,72.7,96
+27,520,2,1,Konkan division,1,2,2.2,7,Maharashtra,1123,Raigad,18.4,73.1,97
+27,528,2,1,Konkan division,1,2,2.2,7,Maharashtra,1119,Ratnagiri,17.0,73.0,98
+27,516,1,2,Nasik division,3,5,5.2,7,Maharashtra,1118,Nasik,20.6,74.5,99
+27,498,1,2,Nasik division,3,5,5.2,7,Maharashtra,1109,Dhule,21.1,74.6,100
+27,499,1,2,Nasik division,3,5,5.4,7,Maharashtra,1112,Jalgaon,21.1,75.6,101
+27,522,1,3,Pune division,3,5,5.2,7,Maharashtra,1101,Ahmednagar,19.1,74.9,102
+27,521,1,3,Pune division,3,5,5.2,7,Maharashtra,1122,Pune,18.5,73.9,103
+27,527,1,4,Kolhapur division,3,5,5.2,7,Maharashtra,1125,Satara,17.4,73.6,104
+27,531,1,4,Kolhapur division,3,5,5.2,7,Maharashtra,1124,Sangli,16.9,74.8,105
+27,526,1,3,Pune division,3,5,5.2,7,Maharashtra,1127,Solapur,17.1,75.9,106
+27,530,2,4,Kolhapur division,1,5,5.2,7,Maharashtra,1114,Kolhapur,16.7,74.2,107
+27,515,1,5,Aurangabad division,3,5,5.2,7,Maharashtra,1104,Aurangabad,19.9,75.3,108
+27,513,1,6,Latur division,3,5,5.4,7,Maharashtra,1121,Parbhani,19.1,76.1,109
+27,523,1,5,Aurangabad division,3,5,5.2,7,Maharashtra,1105,Bid,19.0,75.8,110
+27,511,1,6,Latur division,3,5,5.4,7,Maharashtra,1117,Nanded,19.1,77.2,111
+27,525,1,6,Latur division,3,5,5.2,7,Maharashtra,1120,Osmanabad,18.0,76.1,112
+27,500,1,7,Amravati division,3,5,5.4,7,Maharashtra,1107,Buldhana,20.5,76.2,113
+27,501,1,7,Amravati division,3,5,5.4,7,Maharashtra,1102,Akola,20.7,77.0,114
+27,503,1,7,Amravati division,3,5,5.4,7,Maharashtra,1103,Amarawati,20.9,77.8,115
+27,510,1,7,Amravati division,3,5,5.4,7,Maharashtra,1130,Yeotmal,20.4,78.1,116
+27,504,1,8,Nagpur division,3,5,5.4,7,Maharashtra,1129,Wardha,20.9,78.4,117
+27,505,1,8,Nagpur division,3,5,5.4,7,Maharashtra,1116,Nagpur,21.2,79.1,118
+27,506,2,8,Nagpur division,1,5,5.1,7,Maharashtra,1106,Bhandara,20.0,79.3,119
+27,509,2,8,Nagpur division,1,5,5.4,7,Maharashtra,1108,Chandrapur,19.4,80.0,120
+24,474,1,1,Baroda division,3,5,5.4,3,Gujarat,3501,Ahmedabad,23.1,72.6,121
+24,480,1,2,Rajkot division,3,5,5.3,3,Gujarat,3502,Amreli,21.5,71.1,122
+24,469,1,1,Baroda division,3,1,1.2,3,Gujarat,3503,Banaskantha,24.3,71.9,123
+24,488,1,1,Baroda division,3,5,5.4,3,Gujarat,3504,Bharuch,21.7,73.0,124
+24,486,1,1,Baroda division,3,5,5.4,3,Gujarat,3518,Vadodara Baroda,22.3,73.3,125
+24,481,1,2,Rajkot division,3,5,5.3,3,Gujarat,3506,Bhavnagar,21.8,72.2,126
+24,491,1,1,Baroda division,3,5,5.4,3,Gujarat,3519,Valsad,20.6,73.2,127
+24,489,1,1,Baroda division,3,5,5.4,3,Gujarat,3517,Dangs,20.8,73.6,128
+24,477,1,2,Rajkot division,3,1,1.2,3,Gujarat,3507,Jamnagar,22.5,70.1,129
+24,279,1,2,Rajkot division,3,5,5.3,3,Gujarat,3508,Junagadh,20.9,70.4,130
+24,483,1,1,Baroda division,3,5,5.4,3,Gujarat,3510,Kheda,22.3,73.3,131
+24,468,2,2,Rajkot division,4,1,1.2,3,Gujarat,3509,Kutch,23.3,69.8,132
+24,471,1,1,Baroda division,3,5,5.4,3,Gujarat,3511,Mehsana,23.8,71.6,133
+24,484,1,1,Baroda division,3,5,5.4,3,Gujarat,3512,Panchmahal,22.9,73.8,134
+24,476,1,2,Rajkot division,3,1,1.2,3,Gujarat,3513,Rajkot,22.3,70.8,135
+24,472,1,1,Baroda division,3,5,5.3,3,Gujarat,3514,Sabarkantha,23.5,73.2,136
+24,492,1,1,Baroda division,3,5,5.4,3,Gujarat,3515,Surat,21.2,72.1,137
+24,475,1,2,Rajkot division,3,5,5.4,3,Gujarat,3516,Surendranagar,22.8,71.6,138
+8,119,1,2,Ajmer division,3,5,5.3,10,Rajasthan,1701,Ajmer,26.5,74.6,139
+8,104,2,3,Jaipur division,2,4,4.2,10,Rajasthan,1702,Alwar,26.4,76.6,140
+8,125,1,5,Udaipur division,3,5,5.3,10,Rajasthan,1703,Banswara,23.6,74.5,141
+8,115,2,4,Jodhpur division,4,1,1.1,10,Rajasthan,1704,Barmer,25.8,71.4,142
+8,105,2,3,Jaipur division,2,4,4.2,10,Rajasthan,1705,Bharatpur,26.7,77.9,143
+8,122,1,2,Ajmer division,3,5,5.3,10,Rajasthan,1706,Bhilwara,25.6,74.9,144
+8,101,2,1,Bikaner division,4,1,1.2,10,Rajasthan,1707,Bikaner,28.0,73.3,145
+8,121,1,6,Kota division,3,5,5.3,10,Rajasthan,1708,Bundi,25.6,75.7,146
+8,126,1,5,Udaipur division,3,5,5.3,10,Rajasthan,1709,Chittorgarh,24.8,75.5,147
+8,102,2,1,Bikaner division,4,1,1.2,10,Rajasthan,1710,Churu,28.4,74.4,148
+8,124,1,5,Udaipur division,3,5,5.3,10,Rajasthan,1712,Dungarpur,23.8,73.9,149
+8,99,2,1,Bikaner division,4,4,4.2,10,Rajasthan,1713,Ganganagar,29.9,73.9,150
+8,110,2,3,Jaipur division,2,4,4.2,10,Rajasthan,1714,Jaipur,26.9,75.8,151
+8,114,2,4,Jodhpur division,4,1,1.1,10,Rajasthan,1715,Jaisalmer,26.9,70.9,152
+8,116,2,4,Jodhpur division,4,1,1.1,10,Rajasthan,1716,Jalore,25.1,72.2,153
+8,129,1,6,Kota division,3,5,5.3,10,Rajasthan,1717,Jhalawar,24.5,76.2,154
+8,103,2,3,Jaipur division,4,1,1.1,10,Rajasthan,1718,Jhunjhunu,28.1,75.5,155
+8,113,2,4,Jodhpur division,4,1,1.1,10,Rajasthan,1719,Jodhpur,26.3,73.1,156
+8,127,1,6,Kota division,3,5,5.3,10,Rajasthan,1720,Kota,25.2,75.9,157
+8,112,2,2,Ajmer division,4,1,1.1,10,Rajasthan,1721,Nagaur,27.0,74.0,158
+8,118,1,4,Jodhpur division,3,1,1.1,10,Rajasthan,1722,Pali,25.7,73.6,159
+8,108,2,6,Kota division,2,5,5.3,10,Rajasthan,1723,Swami Madhopur,26.4,76.8,160
+8,111,2,3,Jaipur division,2,1,1.1,10,Rajasthan,1724,Sikar,27.6,75.1,161
+8,117,1,4,Jodhpur division,3,1,1.1,10,Rajasthan,1726,Sirohi,24.7,72.7,162
+8,120,1,2,Ajmer division,3,5,5.3,10,Rajasthan,1725,Tonk,26.1,75.6,163
+8,130,1,5,Udaipur division,3,5,5.3,10,Rajasthan,1727,Udaipur,24.6,73.7,164
+3,35,2,2,Mojha division,2,4,4.1,9,Punjab,1604,Gurdaspur,32.3,75.7,165
+3,49,2,2,Mojha division,2,4,4.1,9,Punjab,1601,Amritsar,31.6,74.9,166
+3,36,2,3,Dobra division,2,4,4.1,9,Punjab,1608,Kapurthala,31.1,75.4,167
+3,37,2,3,Dobra division,2,4,4.1,9,Punjab,1607,Jalandhar,31.5,75.6,168
+3,38,2,3,Dobra division,2,4,4.1,9,Punjab,1606,Hoshiarpur,31.6,75.9,169
+3,51,2,1,Malwa division,2,4,4.1,9,Punjab,1611,Rupnagar,30.3,76.5,170
+3,41,2,1,Malwa division,2,4,4.1,9,Punjab,1609,Ludhiana,30.9,75.9,171
+3,43,2,2,Mojha division,4,4,4.1,9,Punjab,1605,Ferozpur,30.9,74.6,172
+3,46,2,1,Malwa division,4,4,4.2,9,Punjab,1602,Bhatinda,31.6,75.3,174
+3,53,2,1,Malwa division,4,4,4.1,9,Punjab,1612,Sangrur,31.0,75.9,175
+3,48,2,1,Malwa division,2,4,4.1,9,Punjab,1610,Patiala,30.0,76.5,176
+6,80,2,3,Hissar division,4,4,4.2,4,Haryana,3605,Hissar,29.2,75.7,177
+6,86,2,2,Gurgaon division,2,4,4.2,4,Haryana,3604,Gurgaon,28.5,76.8,180
+6,77,2,3,Hissar division,2,4,4.1,4,Haryana,3606,Jind,29.5,76.4,181
+6,84,2,2,Gurgaon division,2,4,4.2,4,Haryana,3609,Mahendragarh Narnaul,28.4,76.2,182
+6,70,2,1,Ambala division,2,4,4.1,4,Haryana,3601,Ambala,30.4,76.7,183
+6,74,2,4,Rohtak division,2,4,4.1,4,Haryana,3607,Karnal,29.7,77.0,184
+6,82,2,4,Rohtak division,4,4,4.2,4,Haryana,3610,Rohtak,28.9,76.6,186
+9,132,2,1,Saharanpur division,2,4,4.3,12,Uttar Pradesh,2150,Saharanpur,29.9,77.9,189
+9,133,2,1,Saharanpur division,2,4,4.3,12,Uttar Pradesh,2143,Muzaffarnagar,29.5,77.7,190
+9,138,2,3,Meerut division,2,4,4.3,12,Uttar Pradesh,2140,Meerut,29.0,77.7,191
+9,142,2,3,Meerut division,2,4,4.1,12,Uttar Pradesh,2114,Buland Shahar,28.3,77.9,192
+9,143,2,5,Aligarh division,2,4,4.1,12,Uttar Pradesh,2102,Aligarh,27.9,78.1,194
+9,145,2,4,Agra division,2,4,4.1,12,Uttar Pradesh,2139,Mathura,27.6,77.6,195
+9,146,2,4,Agra division,2,4,4.1,12,Uttar Pradesh,2101,Agra,27.2,78.0,196
+9,148,2,4,Agra division,2,4,4.1,12,Uttar Pradesh,2138,Mainpuri,27.3,79.1,197
+9,201,2,5,Aligarh division,2,4,4.1,12,Uttar Pradesh,2118,Etah,27.6,78.8,198
+9,150,2,6,Bareilly division,2,4,4.1,12,Uttar Pradesh,2110,Bareilly,28.4,79.4,199
+9,149,2,6,Bareilly division,2,4,4.1,12,Uttar Pradesh,2113,Budaun,28.1,79.0,200
+9,135,2,2,Moradabad division,2,4,4.3,12,Uttar Pradesh,2142,Moradabad,28.7,78.7,201
+9,152,2,6,Bareilly division,2,4,4.1,12,Uttar Pradesh,2151,Shahjahanpur,28.0,79.9,202
+9,151,2,6,Bareilly division,2,4,4.1,12,Uttar Pradesh,2145,Pilibhit,28.5,79.9,203
+9,136,2,2,Moradabad division,2,4,4.1,12,Uttar Pradesh,2149,Rampur,28.8,79.1,204
+9,134,2,2,Moradabad division,2,4,4.3,12,Uttar Pradesh,2112,Bijnor,28.7,78.7,205
+9,159,2,8,Kanpur division,2,4,4.1,12,Uttar Pradesh,2121,Farrukhabad,27.2,79.5,206
+9,161,2,8,Kanpur division,2,4,4.1,12,Uttar Pradesh,2119,Etawah,27.1,78.7,207
+9,-1,2,8,Kanpur division,2,4,4.1,12,Uttar Pradesh,2133,Kanpur,26.4,80.3,208
+9,172,2,11,Allahabad division,2,4,4.1,12,Uttar Pradesh,2122,Fatehpur,25.9,80.1,209
+9,175,2,11,Allahabad division,2,4,4.1,12,Uttar Pradesh,2103,Allahabad,25.5,81.7,210
+9,166,2,9,Jhansi division,2,5,5.3,12,Uttar Pradesh,2132,Jhansi,25.5,78.6,211
+9,165,2,9,Jhansi division,2,5,5.3,12,Uttar Pradesh,2130,Jalaun,26.0,79.5,213
+9,168,2,10,Chitrakut division,2,5,5.3,12,Uttar Pradesh,2128,Hamirpur,25.5,79.9,214
+9,170,2,10,Chitrakut division,2,5,5.3,12,Uttar Pradesh,2108,Banda,25.5,80.4,215
+9,197,2,17,Varanasi division,2,4,4.1,12,Uttar Pradesh,2157,Varanasi,25.3,83.0,216
+9,199,2,18,Vindhyachal division,2,4,4.1,12,Uttar Pradesh,2141,Mirzpur,25.0,82.6,217
+9,194,2,17,Varanasi division,2,4,4.1,12,Uttar Pradesh,2131,Jaunpur,25.7,82.6,218
+9,195,2,17,Varanasi division,2,4,4.1,12,Uttar Pradesh,2125,Ghazipur,25.7,83.6,219
+9,193,2,16,Azamgarh division,2,4,4.1,12,Uttar Pradesh,2107,Ballia,25.9,84.0,220
+9,188,2,15,Gorakhpur division,1,4,4.1,12,Uttar Pradesh,2127,Gorakhpur,26.8,83.4,221
+9,190,2,15,Gorakhpur division,1,4,4.1,12,Uttar Pradesh,2117,Deoria,26.8,83.9,222
+9,185,2,14,Basti division,2,4,4.1,12,Uttar Pradesh,2111,Basti,26.8,82.8,223
+9,191,2,16,Azamgarh division,2,4,4.1,12,Uttar Pradesh,2105,Azamgarh,26.0,83.2,224
+9,157,2,7,Lucknow division,2,4,4.1,12,Uttar Pradesh,2137,Lucknow,26.9,80.9,225
+9,156,2,7,Lucknow division,2,4,4.1,12,Uttar Pradesh,2155,Unnao,26.6,80.5,226
+9,158,2,7,Lucknow division,2,4,4.1,12,Uttar Pradesh,2148,Rae - Bareily,26.2,81.2,227
+9,154,2,7,Lucknow division,2,4,4.1,12,Uttar Pradesh,2152,Sitapur,27.6,80.8,228
+9,155,2,7,Lucknow division,2,4,4.1,12,Uttar Pradesh,2129,Hardoi,27.4,80.1,229
+9,153,2,7,Lucknow division,1,4,4.1,12,Uttar Pradesh,2135,Kheri,27.9,80.8,230
+9,177,2,12,Faizabad division,2,4,4.1,12,Uttar Pradesh,2120,Faizabad,26.5,82.4,231
+9,183,2,13,Devipatan division,1,4,4.1,12,Uttar Pradesh,2126,Gonda,27.1,82.0,232
+9,180,2,13,Devipatan division,1,4,4.1,12,Uttar Pradesh,2106,Bahraich,27.6,81.6,233
+9,179,2,12,Faizabad division,2,4,4.1,12,Uttar Pradesh,2153,Sultanpur,26.2,82.0,234
+9,173,2,11,Allahabad division,2,4,4.1,12,Uttar Pradesh,2147,Pratapgarh,25.8,81.8,235
+9,176,2,12,Faizabad division,2,4,4.1,12,Uttar Pradesh,2109,Barabanki,26.9,81.3,236
+5,66,2,2,Kumaon division,1,3,3.3,16,Uttarakhand,2144,Nainital,29.5,79.7,237
+5,64,2,2,Kumaon division,1,3,3.3,16,Uttarakhand,2104,Almorah,29.8,79.5,238
+5,62,2,2,Kumaon division,1,3,3.3,16,Uttarakhand,2146,Pithorgarh,30.0,80.4,239
+5,57,2,1,Garhwal division,4,3,3.3,16,Uttarakhand,2115,Chamoli,30.5,79.7,240
+5,56,2,1,Garhwal division,4,3,3.3,16,Uttarakhand,2156,Uttar Kashi,30.9,78.5,241
+5,59,2,1,Garhwal division,1,3,3.3,16,Uttarakhand,2154,Tehri Garhwal,30.5,78.7,242
+5,61,2,1,Garhwal division,1,3,3.3,16,Uttarakhand,2123,Garhwal,29.9,78.9,243
+5,60,2,1,Garhwal division,1,3,3.3,16,Uttarakhand,2116,Dehradun,30.3,78.0,244
+18,316,2,2,Uppar brahamaputra,1,1,3.2,17,Assam,3315,Cachar,24.5,92.5,601
+18,325,2,1,Lower brahamaputra,1,5,5.1,17,Assam,3304,Darrang,26.9,92.2,602
+18,310,2,2,Uppar brahamaputra,1,5,5.1,17,Assam,3303,Dibrugarh,27.3,94.5,603
+18,302,2,1,Lower brahamaputra,1,5,5.1,17,Assam,3305,Goalpara,26.1,90.4,604
+18,321,2,1,Lower brahamaputra,1,5,5.1,17,Assam,3306,Kamrup,26.1,91.4,605
+18,314,2,2,Uppar brahamaputra,1,3,3.2,17,Assam,3308,Karbi Anglong,25.5,93.3,606
+18,307,2,2,Uppar brahamaputra,1,5,5.1,17,Assam,3312,Lakhimpur,27.1,94.1,607
+18,315,2,2,Uppar brahamaputra,1,3,3.2,17,Assam,3311,North Cachar Hil Dima hasao,25.1,93.0,608
+18,305,2,1,Lower brahamaputra,1,5,5.1,17,Assam,3313,Nagaon,26.2,92.4,609
+18,311,2,2,Uppar brahamaputra,1,5,5.1,17,Assam,3314,Sibsagar,26.6,94.4,610
+2,30,2,1,Low hills region,1,3,3.3,18,Himachal  Pradesh,3701,Bilashpur,31.2,76.4,626
+2,23,2,1,Low hills region,1,3,3.3,18,Himachal  Pradesh,3702,Chamba,32.6,76.4,627
+2,24,2,1,Low hills region,1,3,3.3,18,Himachal  Pradesh,3704,Kangra,31.9,76.5,629
+2,34,2,4,Very high hills region,1,3,3.1,18,Himachal  Pradesh,3705,Kinnaur,31.6,78.2,630
+2,26,2,2,Mid hills region,1,3,3.3,18,Himachal  Pradesh,3706,Kullu,31.7,77.0,631
+2,25,2,4,Very high hills region,2,3,3.1,18,Himachal  Pradesh,3707,Lahul & Spiti,32.4,77.5,632
+2,31,2,2,Mid hills region,1,3,3.3,18,Himachal  Pradesh,3711,Solan,30.6,76.8,633
+2,27,2,3,High hills region,1,3,3.3,18,Himachal  Pradesh,3708,Mandi,31.6,76.8,634
+2,33,2,3,High hills region,1,3,3.3,18,Himachal  Pradesh,3709,Shimla,30.9,77.6,635
+2,32,2,3,High hills region,1,3,3.3,18,Himachal  Pradesh,3710,Sirmaur,30.6,77.3,636
+32,598,2,3,Travancore region(SK),1,2,2.2,19,Kerala,4001,Alappuzha,9.3,76.2,651
+32,589,2,1,Malabar region(NK),1,2,2.2,19,Kerala,4002,Kannur,11.5,75.3,652
+32,595,2,2,Kochi region(CK),1,2,2.2,19,Kerala,4003,Eranakulam,10.0,76.2,653
+32,597,2,3,Travancore region(SK),1,2,2.2,19,Kerala,4006,Kottayam,9.4,76.3,655
+32,591,2,1,Malabar region(NK),1,2,2.2,19,Kerala,4007,Kozhikode,11.2,75.5,656
+32,592,2,1,Malabar region(NK),1,2,2.2,19,Kerala,4008,Malappuram,11.0,76.1,657
+32,593,2,2,Kochi region(CK),1,2,2.2,19,Kerala,4009,Palakkad,10.5,76.4,658
+32,600,2,3,Travancore region(SK),1,2,2.2,19,Kerala,4011,Kollam,8.5,76.4,659
+32,594,2,2,Kochi region(CK),1,2,2.2,19,Kerala,4012,Thrissur,10.3,76.2,660
+32,601,2,3,Travancore region(SK),1,2,2.2,19,Kerala,4013,Thiruvananthapuram,8.3,76.6,661
+21,377,2,1,Coastal plains,1,2,2.1,8,Odisha,1502,Balasore,21.1,86.9,701
+21,393,2,3,Central plateau,1,5,5.1,8,Odisha,1501,Bolangir,20.3,83.2,702
+21,381,2,1,Coastal plains,1,2,2.1,8,Odisha,1503,Cuttack,20.8,85.9,703
+21,383,2,3,Central plateau,1,5,5.1,8,Odisha,1504,Dhenkanal,20.7,85.6,704
+21,388,2,1,Coastal plains,1,2,2.1,8,Odisha,1505,Ganjam,19.3,84.9,705
+21,395,2,2,Southwestern plateau,1,5,5.1,8,Odisha,1506,Kalahandi,19.3,83.1,706
+21,375,2,4,Northern plateau,1,5,5.1,8,Odisha,1507,Keonjhar,21.6,85.6,707
+21,398,2,2,Southwestern plateau,1,5,5.1,8,Odisha,1508,Koraput,18.8,82.7,708
+21,376,2,4,Northern plateau,1,5,5.1,8,Odisha,1509,Mayurbhanja,19.1,86.4,709
+21,390,2,2,Southwestern plateau,1,5,5.1,8,Odisha,1510,Phulbani(Kandhamal),20.1,84.4,710
+21,387,2,1,Coastal plains,1,2,2.1,8,Odisha,1511,Puri,19.8,85.8,711
+21,372,1,3,Central plateau,3,5,5.1,8,Odisha,1512,Sambalpur,21.5,84.0,712
+21,374,1,4,Northern plateau,3,5,5.1,8,Odisha,1513,Sundargarh,21.5,84.9,713
+19,-1,2,3,Presidency division,1,4,4.1,13,West Bengal,2215,24 Parganas,22.4,88.6,800
+19,336,2,3,Presidency division,1,4,4.1,13,West Bengal,2213,Nadia,23.4,88.5,803
+19,333,2,3,Presidency division,1,4,4.1,13,West Bengal,2212,Murshidabad,24.1,88.3,804
+19,335,2,2,Burdwan division,1,4,4.1,13,West Bengal,2202,Burdwan,23.2,87.9,805
+19,334,2,2,Burdwan division,1,4,4.1,13,West Bengal,2203,Birbhum,23.7,87.7,806
+19,339,2,2,Burdwan division,1,5,5.1,13,West Bengal,2201,Bankura,24.4,87.2,807
+19,338,2,2,Burdwan division,1,4,4.1,13,West Bengal,2207,Hooghly,22.9,88.3,810
+19,341,2,3,Presidency division,1,4,4.1,13,West Bengal,2206,Howrah,22.6,88.0,811
+19,328,2,1,Jalpaiguri division,1,3,3.2,13,West Bengal,2208,Jalpaiguri,26.5,88.7,812
+19,327,2,1,Jalpaiguri division,1,3,3.2,13,West Bengal,2205,Darjeeling,27.1,88.3,813
+19,332,2,1,Jalpaiguri division,1,4,4.1,13,West Bengal,2210,Malda,25.0,88.1,814
+19,329,2,1,Jalpaiguri division,2,5,5.1,13,West Bengal,2209,Cooch Behar,26.0,89.5,816
+19,340,2,2,Burdwan division,1,5,5.1,13,West Bengal,2214,Purulia,23.0,86.4,817
+19,-1,2,2,Burdwan division,1,5,5.1,13,West Bengal,2211,Midnapur,22.4,87.3,818
+19,342,2,3,Presidency division,1,5,5.1,13,West Bengal,2220,Kolkata,24.0,88.0,821
+19,-1,2,1,Jalpaiguri division,1,5,5.1,13,West Bengal,2216,West Dinajpur,25.5,88.4,822
+10,-1,2,2,Tirhut division,1,4,4.1,2,Bihar,3424,Champaran,26.5,84.6,901
+10,216,2,2,Tirhut division,2,4,4.1,2,Bihar,3420,Muzaffarpur,26.1,85.4,902
+10,215,2,4,Darbhanga division,1,4,4.1,2,Bihar,3405,Darbhanga,26.0,85.9,903
+10,214,2,5,Kosi division,1,4,4.1,2,Bihar,3430,Saharsa,26.2,86.8,904
+10,211,2,6,Purnea division,1,4,4.1,2,Bihar,3427,Purnea,25.8,87.5,905
+10,219,2,3,Saran division,2,4,4.1,2,Bihar,3434,Saran,26.0,84.8,906
+10,230,1,1,Patna division,3,4,4.1,2,Bihar,3425,Patna,25.6,85.0,907
+10,226,1,8,Mungair division,3,4,4.1,2,Bihar,3419,Mungair,24.9,86.2,908
+10,224,2,7,Bhagalpur division,1,4,4.1,2,Bihar,3403,Bhagalpur,25.3,87.0,909
+20,362,1,4,Santhal Paragana division,3,5,5.1,15,Jharkhand,3442,Santhal Paragana Dumka,24.9,87.6,910
+10,-1,1,1,Patna division,3,4,4.1,2,Bihar,3429,Shahabad (now part of Bhojpur district),25.5,84.5,911
+10,236,1,9,Magadh division,3,4,4.1,2,Bihar,3408,Gaya,24.8,85.0,912
+20,360,2,2,North Chotanagpur division,1,5,5.1,15,Jharkhand,3413,Hazaribagh,24.0,85.4,913
+20,354,2,2,North Chotanagpur division,1,5,5.1,15,Jharkhand,3407,Dhanbad,23.8,86.4,914
+20,358,1,3,Palamau division,3,5,5.1,15,Jharkhand,3423,Palamau,24.1,84.1,915
+20,364,2,1,South Chotanagpur division,1,5,5.1,15,Jharkhand,3428,Ranchi,23.4,85.0,916
+20,-1,2,5,Kolhan division,1,5,5.1,15,Jharkhand,3436,Singhbhum,22.7,86.0,917
+33,603,2,2,Tondai Nadu region,0,2,2.1,11,Tamil Nadu,1929,Chennai,13.1,80.2,999

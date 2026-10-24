@@ -1,0 +1,642 @@
+censuscode,DISTRICT,ST_NM,mpi_headcount_ratio,matched_mpi
+532,Adilabad,Andhra Pradesh,27.12,True
+146,Agra,Uttar Pradesh,32.83,True
+474,Ahmadabad,Gujarat,5.85,True
+522,Ahmadnagar,Maharashtra,15.4,True
+283,Aizawl,Mizoram,1.76,True
+119,Ajmer,Rajasthan,17.9,True
+501,Akola,Maharashtra,13.38,True
+598,Alappuzha,Kerala,0.71,True
+143,Aligarh,Uttar Pradesh,37.26,True
+465,Alirajpur,Madhya Pradesh,71.31,True
+175,Allahabad,Uttar Pradesh,32.77,True
+64,Almora,Uttarakhand,25.65,True
+104,Alwar,Rajasthan,29.96,True
+70,Ambala,Haryana,1.99,True
+178,Ambedkar Nagar,Uttar Pradesh,34.03,True
+503,Amravati,Maharashtra,12.24,True
+480,Amreli,Gujarat,11.95,True
+49,Amritsar,Punjab,7.42,True
+482,Anand,Gujarat,14.81,True
+553,Anantapur,Andhra Pradesh,12.47,True
+14,Anantnag,Jammu & Kashmir,8.36,True
+260,Anjaw,Arunanchal Pradesh,22.86,True
+384,Anugul,Odisha,24.57,True
+461,Anuppur,Madhya Pradesh,41.65,True
+209,Araria,Bihar,64.65,True
+616,Ariyalur,Tamil Nadu,8.71,True
+459,Ashoknagar,Madhya Pradesh,42.78,True
+162,Auraiya,Uttar Pradesh,29.82,True
+235,Aurangabad,Bihar,43.94,True
+515,Aurangabad,Maharashtra,43.94,True
+191,Azamgarh,Uttar Pradesh,32.77,True
+2,Badgam,Jammu & Kashmir,6.84,True
+556,Bagalkot,Karnataka,19.94,True
+63,Bageshwar,Uttarakhand,19.99,True
+139,Baghpat,Uttar Pradesh,21.08,True
+180,Bahraich,Uttar Pradesh,71.85,True
+324,Baksa,Assam,23.59,True
+457,Balaghat,Madhya Pradesh,40.06,True
+393,Balangir,Odisha,27.49,True
+377,Baleshwar,Odisha,24.43,True
+193,Ballia,Uttar Pradesh,37.11,True
+182,Balrampur,Uttar Pradesh,32.45,True
+469,Banas Kantha,Gujarat,31.24,True
+170,Banda,Uttar Pradesh,40.18,True
+9,Bandipore,Jammu & Kashmir,11.07,True
+583,Bangalore Rural,Karnataka,7.03,True
+572,Bangalore,Karnataka,2.05,True
+225,Banka,Bihar,57.83,True
+339,Bankura,West Bengal,26.99,True
+125,Banswara,Rajasthan,50.97,True
+176,Bara Banki,Uttar Pradesh,44.77,True
+370,Bargarh,Odisha,24.77,True
+8,Baramula,Jammu & Kashmir,7.06,True
+128,Baran,Rajasthan,32.4,True
+335,Barddhaman,West Bengal,20.33,True
+150,Bareilly,Uttar Pradesh,38.58,True
+115,Barmer,Rajasthan,53.54,True
+54,Barnala,Punjab,5.81,True
+303,Barpeta,Assam,39.41,True
+441,Barwani,Madhya Pradesh,61.6,True
+414,Bastar,Chhattisgarh,46.95,True
+185,Basti,Uttar Pradesh,43.26,True
+46,Bathinda,Punjab,5.62,True
+391,Bauda,Odisha,,False
+222,Begusarai,Bihar,50.68,True
+555,Belgaum,Karnataka,12.26,True
+565,Bellary,Karnataka,22.91,True
+447,Betul,Madhya Pradesh,34.5,True
+378,Bhadrak,Odisha,28.32,True
+224,Bhagalpur,Bihar,45.6,True
+506,Bhandara,Maharashtra,8.19,True
+105,Bharatpur,Rajasthan,40.0,True
+488,Bharuch,Gujarat,17.38,True
+481,Bhavnagar,Gujarat,17.9,True
+122,Bhilwara,Rajasthan,27.23,True
+420,Bhind,Madhya Pradesh,33.18,True
+81,Bhiwani,Haryana,12.78,True
+231,Bhojpur,Bihar,40.5,True
+444,Bhopal,Madhya Pradesh,12.66,True
+523,Bid,Maharashtra,22.49,True
+558,Bidar,Karnataka,18.99,True
+417,Bijapur,Chhattisgarh,41.2,True
+557,Bijapur,Karnataka,41.2,True
+134,Bijnor,Uttar Pradesh,29.76,True
+101,Bikaner,Rajasthan,22.21,True
+406,Bilaspur,Chhattisgarh,7.54,True
+30,Bilaspur,Himachal Pradesh,7.54,True
+334,Birbhum,West Bengal,27.35,True
+275,Bishnupur,Manipur,13.72,True
+355,Bokaro,Jharkhand,29.33,True
+319,Bongaigaon,Assam,33.77,True
+149,Budaun,Uttar Pradesh,57.1,True
+142,Bulandshahr,Uttar Pradesh,32.88,True
+500,Buldana,Maharashtra,18.22,True
+121,Bundi,Rajasthan,33.07,True
+467,Burhanpur,Madhya Pradesh,36.94,True
+232,Buxar,Bihar,41.84,True
+316,Cachar,Assam,42.29,True
+95,Central,NCT of Delhi,3.84,True
+23,Chamba,Himachal Pradesh,11.27,True
+57,Chamoli,Uttarakhand,16.78,True
+65,Champawat,Uttarakhand,22.41,True
+284,Champhai,Mizoram,10.09,True
+578,Chamrajnagar,Karnataka,,False
+196,Chandauli,Uttar Pradesh,37.91,True
+280,Chandel,Manipur,26.89,True
+55,Chandigarh,Chandigarh,5.97,True
+509,Chandrapur,Maharashtra,17.65,True
+253,Changlang,Arunanchal Pradesh,26.47,True
+347,Chatra,Jharkhand,60.74,True
+603,Chennai,Tamil Nadu,0.93,True
+425,Chhatarpur,Madhya Pradesh,48.78,True
+455,Chhindwara,Madhya Pradesh,30.14,True
+582,Chikkaballapura,Karnataka,13.41,True
+570,Chikmagalur,Karnataka,9.98,True
+320,Chirang,Assam,36.2,True
+566,Chitradurga,Karnataka,14.81,True
+171,Chitrakoot,Uttar Pradesh,52.81,True
+126,Chittaurgarh,Rajasthan,27.72,True
+554,Chittoor,Andhra Pradesh,9.64,True
+274,Churachandpur,Manipur,20.86,True
+102,Churu,Rajasthan,22.79,True
+632,Coimbatore,Tamil Nadu,2.29,True
+617,Cuddalore,Tamil Nadu,6.28,True
+551,Y.s.r.,Andhra Pradesh,9.14,True
+381,Cuttack,Odisha,14.97,True
+496,Dadra & Nagar Haveli,Dadara & Nagar Havelli,26.4,True
+416,Dakshin Bastar Dantewada,Chhattisgarh,54.35,True
+331,Dakshin Dinajpur,West Bengal,22.48,True
+575,Dakshina Kannada,Karnataka,6.69,True
+495,Daman,Daman & Diu,7.15,True
+428,Damoh,Madhya Pradesh,46.31,True
+215,Darbhanga,Bihar,56.45,True
+327,Darjiling,West Bengal,11.32,True
+325,Darrang,Assam,38.22,True
+0,Data Not Available,Jammu & Kashmir,,False
+422,Datia,Madhya Pradesh,34.24,True
+567,Davanagere,Karnataka,11.46,True
+373,Debagarh,Odisha,37.1,True
+60,Dehradun,Uttarakhand,6.88,True
+350,Deoghar,Jharkhand,47.4,True
+190,Deoria,Uttar Pradesh,31.36,True
+437,Dewas,Madhya Pradesh,29.67,True
+291,Dhalai,Tripura,26.23,True
+412,Dhamtari,Chhattisgarh,18.59,True
+354,Dhanbad,Jharkhand,28.57,True
+438,Dhar,Madhya Pradesh,40.28,True
+630,Dharmapuri,Tamil Nadu,5.26,True
+562,Dharwad,Karnataka,9.53,True
+106,Dhaulpur,Rajasthan,39.82,True
+308,Dhemaji,Assam,27.71,True
+383,Dhenkanal,Odisha,29.98,True
+301,Dhubri,Assam,51.06,True
+498,Dhule,Maharashtra,33.23,True
+257,Dibang Valley,Arunanchal Pradesh,16.95,True
+310,Dibrugarh,Assam,28.97,True
+612,Dindigul,Tamil Nadu,4.16,True
+453,Dindori,Madhya Pradesh,56.23,True
+494,Diu,Daman & Diu,4.34,True
+16,Doda,Jammu & Kashmir,28.71,True
+485,Dohad,Gujarat,54.93,True
+362,Dumka,Jharkhand,52.93,True
+124,Dungarpur,Rajasthan,44.69,True
+409,Durg,Chhattisgarh,19.98,True
+265,Dimapur,Nagaland,17.33,True
+93,East,NCT of Delhi,,False
+244,East,Sikkim,,False
+294,East Garo Hills,Meghalaya,41.78,True
+545,East Godavari,Andhra Pradesh,8.51,True
+247,East Kameng,Arunanchal Pradesh,44.03,True
+298,East Khasi Hills,Meghalaya,23.39,True
+466,East Nimar,Madhya Pradesh,,False
+251,East Siang,Arunanchal Pradesh,8.84,True
+595,Ernakulam,Kerala,0.1,True
+610,Erode,Tamil Nadu,2.73,True
+201,Etah,Uttar Pradesh,38.47,True
+161,Etawah,Uttar Pradesh,27.29,True
+177,Faizabad,Uttar Pradesh,38.73,True
+88,Faridabad,Haryana,10.7,True
+45,Faridkot,Punjab,2.96,True
+159,Farrukhabad,Uttar Pradesh,39.18,True
+78,Fatehabad,Haryana,11.02,True
+40,Fatehgarh Sahib,Punjab,3.49,True
+172,Fatehpur,Uttar Pradesh,42.63,True
+147,Firozabad,Uttar Pradesh,32.03,True
+43,Firozpur,Punjab,9.42,True
+561,Gadag,Karnataka,19.5,True
+389,Gajapati,Odisha,38.76,True
+11,Ganderbal,Jammu & Kashmir,7.82,True
+473,Gandhinagar,Gujarat,16.57,True
+99,Ganganagar,Rajasthan,18.23,True
+388,Ganjam,Odisha,21.88,True
+508,Garhchiroli,Maharashtra,20.58,True
+346,Garhwa,Jharkhand,53.21,True
+61,Garhwal,Uttarakhand,11.93,True
+141,Gautam Buddha Nagar,Uttar Pradesh,15.17,True
+236,Gaya,Bihar,54.67,True
+140,Ghaziabad,Uttar Pradesh,16.59,True
+195,Ghazipur,Uttar Pradesh,41.04,True
+349,Giridih,Jharkhand,47.53,True
+302,Goalpara,Assam,40.15,True
+351,Godda,Jharkhand,51.81,True
+313,Golaghat,Assam,20.6,True
+183,Gonda,Uttar Pradesh,59.26,True
+507,Gondiya,Maharashtra,18.75,True
+217,Gopalganj,Bihar,42.75,True
+188,Gorakhpur,Uttar Pradesh,26.17,True
+579,Gulbarga,Karnataka,21.1,True
+366,Gumla,Jharkhand,46.59,True
+458,Guna,Madhya Pradesh,45.67,True
+548,Guntur,Andhra Pradesh,7.26,True
+35,Gurdaspur,Punjab,5.11,True
+86,Gurgaon,Haryana,10.39,True
+421,Gwalior,Madhya Pradesh,22.38,True
+318,Hailakandi,Assam,51.07,True
+28,Hamirpur,Himachal Pradesh,30.92,True
+168,Hamirpur,Uttar Pradesh,30.92,True
+100,Hanumangarh,Rajasthan,19.08,True
+341,Haora,West Bengal,12.84,True
+448,Harda,Madhya Pradesh,33.11,True
+155,Hardoi,Uttar Pradesh,51.16,True
+68,Hardwar,Uttarakhand,24.7,True
+574,Hassan,Karnataka,6.33,True
+144,Mahamaya Nagar,Uttar Pradesh,32.35,True
+564,Haveri,Karnataka,15.28,True
+360,Hazaribagh,Jharkhand,35.75,True
+512,Hingoli,Maharashtra,28.05,True
+80,Hisar,Haryana,9.71,True
+449,Hoshangabad,Madhya Pradesh,24.72,True
+38,Hoshiarpur,Punjab,4.49,True
+338,Hugli,West Bengal,14.93,True
+536,Hyderabad,Andhra Pradesh,4.21,True
+596,Idukki,Kerala,1.65,True
+278,Imphal East,Manipur,12.87,True
+277,Imphal West,Manipur,7.27,True
+439,Indore,Madhya Pradesh,10.76,True
+451,Jabalpur,Madhya Pradesh,19.5,True
+380,Jagatsinghapur,Odisha,11.83,True
+299,Jaintia Hills,Meghalaya,46.07,True
+110,Jaipur,Rajasthan,15.07,True
+114,Jaisalmer,Rajasthan,50.07,True
+382,Jajapur,Odisha,20.75,True
+37,Jalandhar,Punjab,3.26,True
+165,Jalaun,Uttar Pradesh,27.64,True
+499,Jalgaon,Maharashtra,18.6,True
+514,Jalna,Maharashtra,28.65,True
+116,Jalor,Rajasthan,40.41,True
+328,Jalpaiguri,West Bengal,21.83,True
+21,Jammu,Jammu & Kashmir,6.97,True
+477,Jamnagar,Gujarat,13.05,True
+363,Jamtara,Jharkhand,50.62,True
+238,Jamui,Bihar,64.01,True
+405,Janjgir-champa,Chhattisgarh,23.16,True
+402,Jashpur,Chhattisgarh,45.85,True
+194,Jaunpur,Uttar Pradesh,40.78,True
+464,Jhabua,Madhya Pradesh,68.86,True
+83,Jhajjar,Haryana,5.82,True
+129,Jhalawar,Rajasthan,32.74,True
+166,Jhansi,Uttar Pradesh,20.17,True
+371,Jharsuguda,Odisha,18.41,True
+103,Jhunjhunun,Rajasthan,12.76,True
+113,Jodhpur,Rajasthan,26.77,True
+312,Jorhat,Assam,20.24,True
+479,Junagadh,Gujarat,10.08,True
+137,Jyotiba Phule Nagar,Uttar Pradesh,34.84,True
+468,Kachchh,Gujarat,28.3,True
+233,Kaimur (bhabua),Bihar,44.48,True
+73,Kaithal,Haryana,7.83,True
+395,Kalahandi,Odisha,47.28,True
+321,Kamrup,Assam,26.22,True
+322,Kamrup Metropolitan,Assam,10.93,True
+604,Kancheepuram,Tamil Nadu,2.97,True
+390,Kandhamal,Odisha,44.75,True
+24,Kangra,Himachal Pradesh,5.88,True
+413,Uttar Bastar Kanker,Chhattisgarh,27.03,True
+160,Kannauj,Uttar Pradesh,43.5,True
+629,Kanniyakumari,Tamil Nadu,1.52,True
+589,Kannur,Kerala,0.44,True
+163,Kanpur Dehat,Uttar Pradesh,37.98,True
+164,Kanpur Nagar,Uttar Pradesh,14.32,True
+202,Kansiram Nagar,Uttar Pradesh,,False
+36,Kapurthala,Punjab,5.08,True
+314,Karbi Anglong,Assam,37.59,True
+4,Kargil,Jammu & Kashmir,19.29,True
+317,Karimganj,Assam,46.02,True
+534,Karimnagar,Andhra Pradesh,8.65,True
+74,Karnal,Haryana,6.4,True
+613,Karur,Tamil Nadu,4.4,True
+588,Kasaragod,Kerala,0.94,True
+7,Kathua,Jammu & Kashmir,13.08,True
+212,Katihar,Bihar,62.38,True
+450,Katni,Madhya Pradesh,39.94,True
+174,Kaushambi,Uttar Pradesh,56.06,True
+379,Kendrapara,Odisha,21.82,True
+375,Kendujhar,Odisha,41.69,True
+223,Khagaria,Bihar,58.23,True
+541,Khammam,Andhra Pradesh,13.75,True
+483,Kheda,Gujarat,25.5,True
+153,Kheri,Uttar Pradesh,59.95,True
+386,Khordha,Odisha,15.5,True
+365,Khunti,Jharkhand,48.65,True
+34,Kinnaur,Himachal Pradesh,5.1,True
+269,Kiphire,Nagaland,37.33,True
+210,Kishanganj,Bihar,64.75,True
+18,Kishtwar,Jammu & Kashmir,24.29,True
+329,Koch Bihar,West Bengal,21.9,True
+576,Kodagu,Karnataka,8.64,True
+348,Kodarma,Jharkhand,32.68,True
+270,Kohima,Nagaland,11.03,True
+300,Kokrajhar,Assam,32.14,True
+581,Kolar,Karnataka,9.53,True
+282,Kolasib,Mizoram,8.44,True
+530,Kolhapur,Maharashtra,10.17,True
+342,Kolkata,West Bengal,2.72,True
+600,Kollam,Kerala,0.72,True
+560,Koppal,Karnataka,24.31,True
+398,Koraput,Odisha,51.14,True
+404,Korba,Chhattisgarh,31.85,True
+400,Koriya,Chhattisgarh,38.24,True
+127,Kota,Rajasthan,13.3,True
+597,Kottayam,Kerala,0.0,True
+591,Kozhikode,Kerala,0.26,True
+547,Krishna,Andhra Pradesh,8.69,True
+631,Krishnagiri,Tamil Nadu,4.9,True
+15,Kulgam,Jammu & Kashmir,7.43,True
+26,Kullu,Himachal Pradesh,8.97,True
+1,Kupwara,Jammu & Kashmir,16.08,True
+552,Kurnool,Andhra Pradesh,19.64,True
+72,Kurukshetra,Haryana,6.42,True
+256,Kurung Kumey,Arunanchal Pradesh,39.55,True
+189,Kushinagar,Uttar Pradesh,42.82,True
+25,Lahul & Spiti,Himachal Pradesh,7.72,True
+307,Lakhimpur,Assam,24.23,True
+227,Lakhisarai,Bihar,43.9,True
+167,Lalitpur,Uttar Pradesh,35.98,True
+359,Latehar,Jharkhand,52.91,True
+524,Latur,Maharashtra,17.79,True
+287,Lawangtlai,Mizoram,,False
+3,Leh (ladakh),Jammu & Kashmir,5.37,True
+356,Lohardaga,Jharkhand,45.33,True
+259,Lohit,Arunanchal Pradesh,31.97,True
+268,Longleng,Nagaland,33.88,True
+258,Lower Dibang Valley,Arunanchal Pradesh,23.56,True
+255,Lower Subansiri,Arunanchal Pradesh,15.8,True
+157,Lucknow,Uttar Pradesh,12.16,True
+41,Ludhiana,Punjab,3.83,True
+286,Lunglei,Mizoram,10.16,True
+213,Madhepura,Bihar,64.43,True
+207,Madhubani,Bihar,55.41,True
+623,Madurai,Tamil Nadu,5.82,True
+187,Maharajganj,Uttar Pradesh,,False
+411,Mahasamund,Chhattisgarh,29.85,True
+538,Mahbubnagar,Andhra Pradesh,24.72,True
+636,Mahe,Puducherry,0.08,True
+84,Mahendragarh,Haryana,6.29,True
+471,Mahesana,Gujarat,10.43,True
+169,Mahoba,Uttar Pradesh,35.29,True
+148,Mainpuri,Uttar Pradesh,31.41,True
+592,Malappuram,Kerala,1.11,True
+332,Maldah,West Bengal,34.48,True
+399,Malkangiri,Odisha,58.66,True
+281,Mamit,Mizoram,25.29,True
+27,Mandi,Himachal Pradesh,8.35,True
+454,Mandla,Madhya Pradesh,48.09,True
+433,Mandsaur,Madhya Pradesh,33.0,True
+573,Mandya,Karnataka,6.3,True
+47,Mansa,Punjab,9.99,True
+304,Marigaon,Assam,36.75,True
+145,Mathura,Uttar Pradesh,33.78,True
+192,Mau,Uttar Pradesh,32.63,True
+376,Mayurbhanj,Odisha,45.06,True
+535,Medak,Andhra Pradesh,17.87,True
+138,Meerut,Uttar Pradesh,21.1,True
+87,Mewat,Haryana,62.5,True
+199,Mirzapur,Uttar Pradesh,42.73,True
+42,Moga,Punjab,8.01,True
+262,Mokokchung,Nagaland,7.92,True
+261,Mon,Nagaland,45.56,True
+135,Moradabad,Uttar Pradesh,36.85,True
+419,Morena,Madhya Pradesh,32.36,True
+44,Muktsar,Punjab,7.71,True
+519,Mumbai,Maharashtra,3.59,True
+518,Mumbai Suburban,Maharashtra,4.65,True
+226,Munger,Bihar,40.73,True
+333,Murshidabad,West Bengal,27.23,True
+133,Muzaffarnagar,Uttar Pradesh,29.85,True
+216,Muzaffarpur,Bihar,48.0,True
+577,Mysore,Karnataka,7.79,True
+397,Nabarangapur,Odisha,59.32,True
+336,Nadia,West Bengal,11.07,True
+305,Nagaon,Assam,30.51,True
+112,Nagaur,Rajasthan,20.79,True
+505,Nagpur,Maharashtra,6.72,True
+66,Nainital,Uttarakhand,13.39,True
+229,Nalanda,Bihar,46.61,True
+323,Nalbari,Assam,16.94,True
+539,Nalgonda,Andhra Pradesh,13.35,True
+609,Namakkal,Tamil Nadu,2.59,True
+511,Nanded,Maharashtra,27.37,True
+497,Nandurbar,Maharashtra,52.12,True
+415,Narayanpur,Chhattisgarh,51.52,True
+487,Narmada,Gujarat,37.11,True
+452,Narsimhapur,Madhya Pradesh,30.55,True
+516,Nashik,Maharashtra,18.31,True
+490,Navsari,Gujarat,9.75,True
+237,Nawada,Bihar,51.72,True
+385,Nayagarh,Odisha,20.49,True
+432,Neemuch,Madhya Pradesh,31.87,True
+550,Sri Potti Sriramulu Nellore,Andhra Pradesh,11.27,True
+94,New Delhi,NCT of Delhi,4.16,True
+533,Nizamabad,Andhra Pradesh,21.06,True
+91,North,NCT of Delhi,2.41,True
+241,North,Sikkim,2.41,True
+337,North 24 Parganas,West Bengal,9.8,True
+315,Dima Hasao,Assam,31.07,True
+92,North East,NCT of Delhi,7.35,True
+585,North Goa,Goa,3.33,True
+292,North Tripura,Tripura,30.65,True
+90,North West,NCT of Delhi,6.84,True
+394,Nuapada,Odisha,37.8,True
+525,Osmanabad,Maharashtra,17.75,True
+353,Pakur,Jharkhand,60.66,True
+593,Palakkad,Kerala,0.62,True
+358,Palamu,Jharkhand,45.46,True
+118,Pali,Rajasthan,23.62,True
+89,Palwal,Haryana,26.98,True
+484,Panch Mahals,Gujarat,41.52,True
+69,Panchkula,Haryana,2.47,True
+75,Panipat,Haryana,8.12,True
+426,Panna,Madhya Pradesh,42.63,True
+248,Papum Pare,Arunanchal Pradesh,12.85,True
+513,Parbhani,Maharashtra,23.28,True
+203,Pashchim Champaran,Bihar,57.5,True
+344,Pashchim Medinipur,West Bengal,,False
+368,Pashchimi Singhbhum,Jharkhand,57.6,True
+470,Patan,Gujarat,21.1,True
+599,Pathanamthitta,Kerala,0.83,True
+48,Patiala,Punjab,3.75,True
+230,Patna,Bihar,29.2,True
+615,Perambalur,Tamil Nadu,7.61,True
+271,Peren,Nagaland,24.58,True
+266,Phek,Nagaland,27.25,True
+151,Pilibhit,Uttar Pradesh,43.26,True
+62,Pithoragarh,Uttarakhand,13.96,True
+478,Porbandar,Gujarat,8.45,True
+549,Prakasam,Andhra Pradesh,13.84,True
+131,Pratapgarh,Rajasthan,36.94,True
+173,Pratapgarh,Uttar Pradesh,36.94,True
+621,Pudukkottai,Tamil Nadu,11.14,True
+12,Pulwama,Jammu & Kashmir,3.79,True
+5,Punch,Jammu & Kashmir,24.27,True
+521,Pune,Maharashtra,5.29,True
+204,Purba Champaran,Bihar,64.13,True
+345,Purba Medinipur,West Bengal,14.19,True
+357,Purbi Singhbhum,Jharkhand,23.99,True
+387,Puri,Odisha,11.64,True
+211,Purnia,Bihar,63.31,True
+340,Puruliya,West Bengal,49.69,True
+158,Rae Bareli,Uttar Pradesh,34.1,True
+559,Raichur,Karnataka,31.65,True
+403,Raigarh,Chhattisgarh,30.82,True
+520,Raigarh,Maharashtra,30.82,True
+410,Raipur,Chhattisgarh,21.82,True
+446,Raisen,Madhya Pradesh,34.52,True
+6,Rajouri,Jammu & Kashmir,27.41,True
+442,Rajgarh,Madhya Pradesh,41.77,True
+476,Rajkot,Gujarat,8.57,True
+408,Rajnandgaon,Chhattisgarh,23.14,True
+123,Rajsamand,Rajasthan,29.42,True
+584,Ramanagara,Karnataka,8.73,True
+626,Ramanathapuram,Tamil Nadu,6.53,True
+17,Ramban,Jammu & Kashmir,35.26,True
+361,Ramgarh,Jharkhand,29.57,True
+136,Rampur,Uttar Pradesh,38.89,True
+364,Ranchi,Jharkhand,27.6,True
+537,Rangareddy,Andhra Pradesh,5.31,True
+434,Ratlam,Madhya Pradesh,41.48,True
+528,Ratnagiri,Maharashtra,18.47,True
+396,Rayagada,Odisha,48.14,True
+20,Reasi,Jammu & Kashmir,21.92,True
+430,Rewa,Madhya Pradesh,36.94,True
+85,Rewari,Haryana,11.08,True
+297,Ri Bhoi,Meghalaya,46.31,True
+82,Rohtak,Haryana,13.72,True
+234,Rohtas,Bihar,40.74,True
+58,Rudraprayag,Uttarakhand,13.91,True
+51,Rupnagar,Punjab,2.01,True
+472,Sabar Kantha,Gujarat,24.85,True
+427,Sagar,Madhya Pradesh,40.07,True
+132,Saharanpur,Uttar Pradesh,28.52,True
+214,Saharsa,Bihar,61.46,True
+352,Sahibganj,Jharkhand,55.72,True
+52,Sahibzada Ajit Singh Nagar,Punjab,5.05,True
+288,Saiha,Mizoram,12.69,True
+608,Salem,Tamil Nadu,6.56,True
+221,Samastipur,Bihar,55.87,True
+22,Samba,Jammu & Kashmir,9.67,True
+372,Sambalpur,Odisha,24.37,True
+531,Sangli,Maharashtra,10.18,True
+53,Sangrur,Punjab,7.12,True
+186,Sant Kabir Nagar,Uttar Pradesh,43.79,True
+198,Sant Ravi Das Nagar(bhadohi),Uttar Pradesh,42.19,True
+369,Saraikela-kharsawan,Jharkhand,47.79,True
+219,Saran (chhapra),Bihar,,False
+527,Satara,Maharashtra,11.02,True
+429,Satna,Madhya Pradesh,34.12,True
+445,Sehore,Madhya Pradesh,26.69,True
+272,Senapati,Manipur,33.58,True
+456,Seoni,Madhya Pradesh,42.55,True
+285,Serchhip,Mizoram,3.45,True
+460,Shahdol,Madhya Pradesh,43.47,True
+39,Shahid Bhagat Singh Nagar,Punjab,3.56,True
+152,Shahjahanpur,Uttar Pradesh,50.52,True
+436,Shajapur,Madhya Pradesh,33.45,True
+228,Sheikhpura,Bihar,52.7,True
+205,Sheohar,Bihar,60.03,True
+418,Sheopur,Madhya Pradesh,49.72,True
+33,Shimla,Himachal Pradesh,7.46,True
+568,Shimoga,Karnataka,12.64,True
+423,Shivpuri,Madhya Pradesh,46.09,True
+181,Shrawasti,Uttar Pradesh,74.35,True
+13,Shupiyan,Jammu & Kashmir,6.51,True
+311,Sivasagar,Assam,25.55,True
+184,Siddharth Nagar,Uttar Pradesh,57.24,True
+462,Sidhi,Madhya Pradesh,52.68,True
+111,Sikar,Rajasthan,14.27,True
+367,Simdega,Jharkhand,49.98,True
+529,Sindhudurg,Maharashtra,15.39,True
+463,Singrauli,Madhya Pradesh,51.92,True
+32,Sirmaur,Himachal Pradesh,10.88,True
+117,Sirohi,Rajasthan,41.71,True
+79,Sirsa,Haryana,14.52,True
+206,Sitamarhi,Bihar,63.46,True
+154,Sitapur,Uttar Pradesh,56.71,True
+622,Sivaganga,Tamil Nadu,8.64,True
+218,Siwan,Bihar,40.55,True
+31,Solan,Himachal Pradesh,9.1,True
+526,Solapur,Maharashtra,12.6,True
+392,Subarnapur,Odisha,28.05,True
+200,Sonbhadra,Uttar Pradesh,48.35,True
+76,Sonipat,Haryana,6.35,True
+306,Sonitpur,Assam,25.32,True
+98,South,NCT of Delhi,,False
+243,South,Sikkim,,False
+343,South 24 Parganas,West Bengal,28.1,True
+295,South Garo Hills,Meghalaya,11.27,True
+586,South Goa,Goa,4.37,True
+290,South Tripura,Tripura,17.03,True
+97,South West,NCT of Delhi,2.17,True
+542,Srikakulam,Andhra Pradesh,14.01,True
+10,Srinagar,Jammu & Kashmir,1.51,True
+179,Sultanpur,Uttar Pradesh,36.23,True
+374,Sundargarh,Odisha,24.76,True
+208,Supaul,Bihar,63.9,True
+492,Surat,Gujarat,9.22,True
+475,Surendranagar,Gujarat,24.97,True
+401,Surguja,Chhattisgarh,47.37,True
+273,Tamenglong,Manipur,37.38,True
+50,Tarn Taran,Punjab,8.32,True
+245,Tawang,Arunanchal Pradesh,31.25,True
+59,Tehri Garhwal,Uttarakhand,19.53,True
+517,Thane,Maharashtra,15.24,True
+620,Thanjavur,Tamil Nadu,7.23,True
+489,The Dangs,Gujarat,57.33,True
+611,The Nilgiris,Tamil Nadu,2.03,True
+624,Theni,Tamil Nadu,4.76,True
+602,Thiruvallur,Tamil Nadu,2.53,True
+601,Thiruvananthapuram,Kerala,1.08,True
+619,Thiruvarur,Tamil Nadu,6.79,True
+627,Thoothukkudi,Tamil Nadu,7.9,True
+276,Thoubal,Manipur,16.74,True
+594,Thrissur,Kerala,0.33,True
+424,Tikamgarh,Madhya Pradesh,47.52,True
+309,Tinsukia,Assam,36.7,True
+254,Tirap,Arunanchal Pradesh,28.3,True
+614,Tiruchirappalli,Tamil Nadu,3.73,True
+628,Tirunelveli,Tamil Nadu,5.52,True
+633,Tiruppur,Tamil Nadu,3.11,True
+606,Tiruvannamalai,Tamil Nadu,5.92,True
+120,Tonk,Rajasthan,25.23,True
+267,Tuensang,Nagaland,38.33,True
+571,Tumkur,Karnataka,12.71,True
+130,Udaipur,Rajasthan,47.53,True
+326,Udalguri,Assam,29.46,True
+19,Udhampur,Jammu & Kashmir,26.83,True
+67,Udham Singh Nagar,Uttarakhand,22.98,True
+569,Udupi,Karnataka,10.32,True
+435,Ujjain,Madhya Pradesh,29.58,True
+279,Ukhrul,Manipur,28.52,True
+431,Umaria,Madhya Pradesh,45.45,True
+29,Una,Himachal Pradesh,5.0,True
+156,Unnao,Uttar Pradesh,40.79,True
+252,Upper Siang,Arunanchal Pradesh,15.88,True
+249,Upper Subansiri,Arunanchal Pradesh,29.78,True
+330,Uttar Dinajpur,West Bengal,42.84,True
+563,Uttara Kannada,Karnataka,13.21,True
+56,Uttarkashi,Uttarakhand,24.28,True
+486,Vadodara,Gujarat,21.24,True
+220,Vaishali,Bihar,47.56,True
+491,Valsad,Gujarat,19.95,True
+197,Varanasi,Uttar Pradesh,26.0,True
+605,Vellore,Tamil Nadu,3.16,True
+443,Vidisha,Madhya Pradesh,47.19,True
+607,Viluppuram,Tamil Nadu,9.29,True
+625,Virudunagar,Tamil Nadu,7.99,True
+544,Visakhapatnam,Andhra Pradesh,15.1,True
+543,Vizianagaram,Andhra Pradesh,19.0,True
+540,Warangal,Andhra Pradesh,12.12,True
+504,Wardha,Maharashtra,8.82,True
+502,Washim,Maharashtra,22.53,True
+590,Wayanad,Kerala,3.48,True
+96,West,NCT of Delhi,,False
+242,West,Sikkim,,False
+293,West Garo Hills,Meghalaya,27.29,True
+546,West Godavari,Andhra Pradesh,9.11,True
+246,West Kameng,Arunanchal Pradesh,22.44,True
+296,West Khasi Hills,Meghalaya,39.59,True
+440,West Nimar,Madhya Pradesh,,False
+250,West Siang,Arunanchal Pradesh,14.49,True
+289,West Tripura,Tripura,8.97,True
+264,Wokha,Nagaland,15.35,True
+580,Yadgir,Karnataka,41.67,True
+510,Yavatmal,Maharashtra,23.54,True
+263,Zunheboto,Nagaland,23.61,True
+407,Kabeerdham,Chhattisgarh,39.56,True
+71,Yamunanagar,Haryana,4.47,True
+77,Jind,Haryana,9.16,True
+109,Dausa,Rajasthan,27.29,True
+107,Karauli,Rajasthan,39.9,True
+108,Sawai Madhopur,Rajasthan,33.25,True
+240,Arwal,Bihar,52.18,True
+239,Jehanabad,Bihar,45.41,True
+618,Nagappattinam,Tamil Nadu,8.18,True
+637,Karaikal,Puducherry,3.13,True
+635,Puducherry,Puducherry,1.3,True
+634,Yanam,Puducherry,5.06,True
+493,Tapi,Gujarat,27.59,True
+638,Nicobar,Andaman & Nicobar Island,,False
+640,South Andaman,Andaman & Nicobar Island,2.2,True
+639,North & Middle Andaman,Andaman & Nicobar Island,9.32,True
+587,Lakshadweep,Lakshadweep,1.82,True
